@@ -1,0 +1,19 @@
+{
+  "name": "primeira_api",
+  "version": "1.0.0",
+  "description": "primeira api",
+  "keywords": [
+    "primeira",
+    "api"
+  ],
+  "license": "ISC",
+  "author": "Gabriel",
+  
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1" ,
+    "start": "node ./",
+    "start:dev": "nodemon"
+  },
+  "type": "module"
+}
